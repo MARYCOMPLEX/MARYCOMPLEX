@@ -1,4 +1,4 @@
-# 你好，我是苟佳鋆
+# 你好，我是 marycomplex
 
 [English](./README.md) | [简体中文](./README.zh-CN.md)
 

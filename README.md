@@ -1,4 +1,4 @@
-# Hi, I'm Gou Jiayun
+# Hi, I'm marycomplex
 
 [English](./README.md) | [简体中文](./README.zh-CN.md)
 
