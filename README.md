@@ -1,6 +1,6 @@
 # Hi, I'm Gou Jiayun
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=1F6FEB&width=780&lines=Full-stack+Developer+focused+on+AI+products;Building+LLM+Agents%2C+RAG+systems+and+SaaS+platforms;Go+%7C+TypeScript+%7C+Python+%7C+Vue+%7C+GIS+Development)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=900&color=1F6FEB&width=780&lines=Full-stack+Developer+focused+on+AI+products;Building+LLM+Agents%2C+RAG+systems+and+SaaS+platforms;Go+%7C+TypeScript+%7C+Python+%7C+Vue+%7C+GIS+Development)
 
 I'm a full-stack developer and graduate student at Chengdu University of Technology, working on AI SaaS products, LLM agent systems, RAG applications and data-driven backend platforms.
 
@@ -8,13 +8,7 @@ My recent work focuses on turning AI capabilities into reliable product systems:
 
 ## What I Build
 
-```text
-AI Engineering        LLM API integration, ReAct Agent, RAG, vector search
-Backend Systems       Go, Gin, FastAPI, PostgreSQL, Redis, BullMQ, Docker
-Frontend Apps         Vue ecosystem, React, Next.js, TypeScript, admin consoles
-GIS / Map Dev         WebGIS, map interaction, geospatial data visualization
-Mobile Apps           React Native, Expo, cross-platform product prototypes
-```
+<img src="./assets/capability-map.svg" alt="Capability map: AI engineering, backend systems, frontend apps, GIS map development, mobile apps and product delivery" width="100%">
 
 ## Tech Stack
 
