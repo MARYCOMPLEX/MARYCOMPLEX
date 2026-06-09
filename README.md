@@ -27,12 +27,9 @@ My recent work focuses on turning AI capabilities into reliable product systems:
 
 ## Featured Work
 
-| Project | Focus | Stack |
-| --- | --- | --- |
-| AnyFast AI API Gateway | Multi-tenant AI API proxy, dynamic provider routing, RBAC, realtime metrics | Go, Gin, GORM, Redis, PostgreSQL, Casbin |
-| AnyFast AD | AI advertising creative agent platform, ReAct loop, streaming events, RAG knowledge base | Next.js, TypeScript, Redis Stream, BullMQ, pgvector |
-| [FindRealTaste](https://github.com/MARYCOMPLEX/food_agent) | AI food discovery app that filters noisy social recommendations with LLM workflows | React Native, FastAPI, LangChain, Redis, PostgreSQL |
-| EngineerSurveyGPT | Campus AI question-answering system for engineering surveying | Python, LangGraph, LangChain, RAG, Pydantic |
+<img src="./assets/project-showcase.svg" alt="Selected work: AnyFast API Gateway, AnyFast AD, FindRealTaste and EngineerSurveyGPT" width="100%">
+
+[FindRealTaste Repo](https://github.com/MARYCOMPLEX/food_agent) · [Live Preview](https://marycomplex.github.io/display-pages/)
 
 ## FindRealTaste Preview
 

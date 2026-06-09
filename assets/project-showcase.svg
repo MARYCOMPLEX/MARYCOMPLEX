@@ -1,0 +1,59 @@
+<svg width="980" height="390" viewBox="0 0 980 390" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="980" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#F8FAFC"/>
+    </linearGradient>
+    <style>
+      .title { font: 650 30px "Aptos Display", "Segoe UI Variable Display", "SF Pro Display", "Helvetica Neue", sans-serif; fill: #0F172A; letter-spacing: 0; }
+      .muted { font: 450 13px "Aptos", "Segoe UI Variable Text", "SF Pro Text", "Helvetica Neue", sans-serif; fill: #64748B; letter-spacing: 0; }
+      .name { font: 650 21px "Aptos Display", "Segoe UI Variable Display", "SF Pro Display", "Helvetica Neue", sans-serif; fill: #111827; letter-spacing: 0; }
+      .desc { font: 450 14px "Aptos", "Segoe UI Variable Text", "SF Pro Text", "Helvetica Neue", sans-serif; fill: #475569; letter-spacing: 0; }
+      .tag { font: 650 11px "Cascadia Code", "JetBrains Mono", "SF Mono", Consolas, monospace; fill: #334155; letter-spacing: 0; }
+      .num { font: 650 12px "Cascadia Code", "JetBrains Mono", "SF Mono", Consolas, monospace; fill: #94A3B8; }
+      .line { stroke: #E2E8F0; stroke-width: 1; }
+    </style>
+  </defs>
+
+  <rect width="980" height="390" fill="url(#bg)"/>
+  <rect x="24" y="24" width="932" height="342" fill="#FFFFFF" stroke="#DCE4EE"/>
+  <text x="54" y="67" class="title">Selected Work</text>
+  <text x="54" y="92" class="muted">Four projects that show backend depth, agent systems, product delivery and applied AI.</text>
+  <path d="M54 114H926" class="line"/>
+
+  <g transform="translate(54 138)">
+    <rect width="410" height="82" fill="#F8FAFC" stroke="#DCE4EE"/>
+    <rect width="6" height="82" fill="#2563EB"/>
+    <text x="24" y="27" class="num">01</text>
+    <text x="64" y="31" class="name">AnyFast AI API Gateway</text>
+    <text x="64" y="56" class="desc">Multi-tenant AI proxy with dynamic routing and RBAC.</text>
+    <text x="64" y="74" class="tag">Go / Redis / PostgreSQL / Casbin</text>
+  </g>
+
+  <g transform="translate(516 138)">
+    <rect width="410" height="82" fill="#F8FAFC" stroke="#DCE4EE"/>
+    <rect width="6" height="82" fill="#16A34A"/>
+    <text x="24" y="27" class="num">02</text>
+    <text x="64" y="31" class="name">AnyFast AD</text>
+    <text x="64" y="56" class="desc">ReAct agent platform with streaming events and RAG.</text>
+    <text x="64" y="74" class="tag">Next.js / BullMQ / Redis Stream / pgvector</text>
+  </g>
+
+  <g transform="translate(54 244)">
+    <rect width="410" height="82" fill="#F8FAFC" stroke="#DCE4EE"/>
+    <rect width="6" height="82" fill="#EA580C"/>
+    <text x="24" y="27" class="num">03</text>
+    <text x="64" y="31" class="name">FindRealTaste</text>
+    <text x="64" y="56" class="desc">AI food discovery app for filtering noisy reviews.</text>
+    <text x="64" y="74" class="tag">React Native / FastAPI / LangChain</text>
+  </g>
+
+  <g transform="translate(516 244)">
+    <rect width="410" height="82" fill="#F8FAFC" stroke="#DCE4EE"/>
+    <rect width="6" height="82" fill="#7C3AED"/>
+    <text x="24" y="27" class="num">04</text>
+    <text x="64" y="31" class="name">EngineerSurveyGPT</text>
+    <text x="64" y="56" class="desc">Campus RAG system for engineering surveying Q&amp;A.</text>
+    <text x="64" y="74" class="tag">Python / LangGraph / Pydantic / RAG</text>
+  </g>
+</svg>
