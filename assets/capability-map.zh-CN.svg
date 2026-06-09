@@ -1,0 +1,66 @@
+<svg width="980" height="260" viewBox="0 0 980 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="980" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FAFC"/>
+      <stop offset="1" stop-color="#EEF4FF"/>
+    </linearGradient>
+    <style>
+      .display { font: 650 30px "Microsoft YaHei UI", "Noto Sans SC", "PingFang SC", "Source Han Sans SC", sans-serif; fill: #0F172A; letter-spacing: 0; }
+      .small { font: 450 13px "Microsoft YaHei UI", "Noto Sans SC", "PingFang SC", "Source Han Sans SC", sans-serif; fill: #64748B; letter-spacing: 0; }
+      .code { font: 650 12px "Cascadia Code", "JetBrains Mono", "SF Mono", Consolas, monospace; fill: #334155; letter-spacing: 0; }
+      .num { font: 600 13px "Cascadia Code", "JetBrains Mono", "SF Mono", Consolas, monospace; fill: #94A3B8; }
+      .label { font: 650 22px "Microsoft YaHei UI", "Noto Sans SC", "PingFang SC", "Source Han Sans SC", sans-serif; fill: #0F172A; letter-spacing: 0; }
+      .line { stroke: #DCE4EE; stroke-width: 1; }
+    </style>
+  </defs>
+
+  <rect width="980" height="260" fill="url(#panel)"/>
+  <rect x="24" y="24" width="932" height="212" fill="#FFFFFF" stroke="#DCE4EE"/>
+
+  <text x="54" y="66" class="display">核心技术栈</text>
+  <text x="54" y="91" class="small">我主要构建的系统能力与产品交付场景。</text>
+  <text x="804" y="66" class="code">AI SaaS / Agents</text>
+  <path d="M54 112H926" class="line"/>
+
+  <g transform="translate(54 136)">
+    <rect width="132" height="70" fill="#ECFDF3" stroke="#B7E4C7"/>
+    <text x="18" y="25" class="num">01</text>
+    <text x="18" y="52" class="label">AI</text>
+    <text x="74" y="52" class="code">Agent</text>
+  </g>
+
+  <g transform="translate(202 136)">
+    <rect width="132" height="70" fill="#EFF6FF" stroke="#BFD7FF"/>
+    <text x="18" y="25" class="num">02</text>
+    <text x="18" y="52" class="label">API</text>
+    <text x="74" y="52" class="code">Go</text>
+  </g>
+
+  <g transform="translate(350 136)">
+    <rect width="132" height="70" fill="#FFF7ED" stroke="#F6C58F"/>
+    <text x="18" y="25" class="num">03</text>
+    <text x="18" y="52" class="label">Web</text>
+    <text x="75" y="52" class="code">Vue</text>
+  </g>
+
+  <g transform="translate(498 136)">
+    <rect width="132" height="70" fill="#F8FAFC" stroke="#CBD5E1"/>
+    <text x="18" y="25" class="num">04</text>
+    <text x="18" y="52" class="label">GIS</text>
+    <text x="75" y="52" class="code">Map</text>
+  </g>
+
+  <g transform="translate(646 136)">
+    <rect width="132" height="70" fill="#FDF2F8" stroke="#F3B8D4"/>
+    <text x="18" y="25" class="num">05</text>
+    <text x="18" y="52" class="label">App</text>
+    <text x="75" y="52" class="code">RN</text>
+  </g>
+
+  <g transform="translate(794 136)">
+    <rect width="132" height="70" fill="#F5F3FF" stroke="#CEC5FF"/>
+    <text x="18" y="25" class="num">06</text>
+    <text x="18" y="52" class="label">Ops</text>
+    <text x="70" y="52" class="code">Docker</text>
+  </g>
+</svg>

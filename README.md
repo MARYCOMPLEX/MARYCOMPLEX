@@ -1,5 +1,7 @@
 # Hi, I'm Gou Jiayun
 
+[English](./README.md) | [简体中文](./README.zh-CN.md)
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=900&color=1F6FEB&width=780&lines=Full-stack+Developer+focused+on+AI+products;Building+LLM+Agents%2C+RAG+systems+and+SaaS+platforms;Go+%7C+TypeScript+%7C+Python+%7C+Vue+%7C+GIS+Development)
 
 I'm a full-stack developer and graduate student at Chengdu University of Technology, working on AI SaaS products, LLM agent systems, RAG applications and data-driven backend platforms.
@@ -8,7 +10,7 @@ My recent work focuses on turning AI capabilities into reliable product systems:
 
 ## What I Build
 
-<img src="./assets/capability-map.svg" alt="Capability map: AI engineering, backend systems, frontend apps, GIS map development, mobile apps and product delivery" width="100%">
+<img src="./assets/capability-map.en.svg" alt="Capability map: AI engineering, backend systems, frontend apps, GIS map development, mobile apps and operations" width="100%">
 
 ## Tech Stack
 
@@ -27,7 +29,7 @@ My recent work focuses on turning AI capabilities into reliable product systems:
 
 ## Featured Work
 
-<img src="./assets/project-showcase.svg" alt="Selected work: AnyFast API Gateway, AnyFast AD, FindRealTaste and EngineerSurveyGPT" width="100%">
+<img src="./assets/project-showcase.en.svg" alt="Selected work: AnyFast API Gateway, AnyFast AD, FindRealTaste and EngineerSurveyGPT" width="100%">
 
 [FindRealTaste Repo](https://github.com/MARYCOMPLEX/food_agent) · [Live Preview](https://marycomplex.github.io/display-pages/)
 
